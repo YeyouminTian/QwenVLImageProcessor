@@ -21,8 +21,10 @@ Qwen-VL 街道图像评估工具是一个 Python 脚本，用于批量处理街�
 2. 克隆此仓库或下载源代码。
 
 3. 在项目目录中，安装所需的依赖项：
+
+   ```bash
+   pip install openai tqdm
    ```
-   pip install openai tqdm   ```
 
 ## 使用方法
 
